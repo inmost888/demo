@@ -1,6 +1,6 @@
 #
 
-**若需部署 V2Ray VLESS，请转到 [vless](https://github.com/inmost888/demo) 分支。**
+**若需部署 V2Ray VLESS，请转到) 分支。**
 
 ## 概述
 
