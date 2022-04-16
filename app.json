@@ -1,6 +1,6 @@
 {
     "name": "U2",
-    "description": "Deploy U2 on Heroku.",
+    "description": "Deploy U2 ",
     "keywords": ["U2"],
     "env": {
         "ID": {
