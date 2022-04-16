@@ -1,7 +1,7 @@
 {
     "name": "U2",
     "description": "Deploy U2 on Heroku.",
-    "keywords": ["V2Ray"],
+    "keywords": ["U2"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -12,7 +12,7 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "https://github.com/inmost888/demo",
+    "repository": "https://github.com/inmost888/demo",
     "stack": "container"
 }
